@@ -4,7 +4,7 @@
 
 Some GPUs and OpenGL versions can trigger this error if you have Optifine installed.
 
-![](<../.gitbook/assets/image (43).png>)
+![](<../.gitbook/assets/image (43) (1).png>)
 
 For example `OpenGL Error: 1280 (Invalid enum)`
 

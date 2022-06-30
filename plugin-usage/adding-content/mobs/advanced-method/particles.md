@@ -42,7 +42,7 @@ Edit the values on the "**Keyframe**" panel.
 * XYZ delta: specifies the dimensions (in number of blocks) for each dimension of the particle effect, with **x y z** in the center. Each coordinate specifies the number of blocks from the center that the particles will appear. You can set decimal numbers.\
 
 
-![](<../../../../.gitbook/assets/image (106).png>)
+![](<../../../../.gitbook/assets/image (106) (1).png>)
 
 ## Done
 

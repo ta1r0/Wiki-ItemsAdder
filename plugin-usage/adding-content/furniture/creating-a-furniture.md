@@ -131,7 +131,7 @@ Now open [BlockBench](../item-properties/resource/creating-3d-models.md) and cre
 
 Now create you model, in this example I'm modelling an ugly minimal modern lamp.
 
-![](<../../../.gitbook/assets/image (125).png>)
+![](<../../../.gitbook/assets/image (125) (1).png>)
 
 {% hint style="warning" %}
 Important: make sure the north is opposite of where you want the model to face.

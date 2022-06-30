@@ -19,13 +19,13 @@ GUI:
     Russian ru
     Turkish tr
     Thai th
-
 Items: 
     Chinese zh_cn
     Spanish es
     French fr
     Italian it
     Portuguese pt
+    Russian ru
     Turkish tr
 ```
 

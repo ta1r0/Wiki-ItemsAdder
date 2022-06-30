@@ -19,7 +19,7 @@ Click here to change the branch.
 DO NOT EDIT THE `master` BRANCH!
 {% endhint %}
 
-![](<../.gitbook/assets/image (173).png>)
+![](<../.gitbook/assets/image (173) (1).png>)
 
 Select a file you want to edit and press the **pen** button
 

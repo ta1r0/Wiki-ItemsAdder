@@ -88,7 +88,7 @@ Press <mark style="color:green;">**`+Add`**</mark>
 
 As you can see you have a new line in the permissions list, this is the prefix setting.
 
-![](<../../.gitbook/assets/image (107).png>)
+![](<../../.gitbook/assets/image (107) (1).png>)
 
 Now save your changes
 

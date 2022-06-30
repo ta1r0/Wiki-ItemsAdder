@@ -23,7 +23,7 @@ Open your `.iaentitymodel` model file with **Blockbench**.
 
 Select the base bone of the head.
 
-![](<../../../../.gitbook/assets/image (172).png>)
+![](<../../../../.gitbook/assets/image (172) (1).png>)
 
 Rightclick on the bone and select "**Bone Config**"
 

@@ -96,7 +96,7 @@ Now create a new folder inside `plugins/ItemsAdder/data/items_packs/`, it's your
 
 Create a new `.yml` configuration file and call it as you prefer, in this example I use one file per-entity, to keep things organized.
 
-![](<../../../../.gitbook/assets/image (112).png>)
+![](<../../../../.gitbook/assets/image (112) (1).png>)
 
 {% code title="barman_robot.yml" %}
 ```yaml
