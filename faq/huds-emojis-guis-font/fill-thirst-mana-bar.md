@@ -12,12 +12,12 @@ To fill the manabar use `/iaplayerstat write LoneDev mana float 5`
 
 ## Disable thirst
 
-* open plugins\ItemsAdder\data\items\_packs\realcraft\huds.yml
+* open plugins/ItemsAdder/contents/iasurvival/configs/thirst/hud_thirst.yml
 * set enabled: false
 * use /iareload command
 
 ## Disable mana
 
-* open plugins\ItemsAdder\data\items\_packs\magiccraft\huds.yml
+* open plugins/ItemsAdder/contents/iaalchemy/configs/huds/huds.yml
 * set enabled: false
 * use /iareload command
